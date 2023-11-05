@@ -1,5 +1,5 @@
 # dance!
-a fully wireless 36 key keyboard inspired by the chocofi
+damce! is a split wireless keyboard designed from the temper and chocofi.
 
 ## coming soon
 
