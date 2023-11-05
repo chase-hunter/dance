@@ -1,5 +1,5 @@
 # dance!
-damce! is a split wireless only keyboard designed from the temper and chocofi.
+dance! is a split wireless only keyboard designed from the temper and chocofi.
 ## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk)
 
 ## features:
