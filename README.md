@@ -6,8 +6,8 @@ damce! is a split wireless keyboard designed from the temper and chocofi.
 >[!IMPORTANT]
 >these are prototype images!
 
-![image](https://github.com/chase-hunter/dance/assets/122387925/f5b97734-94a3-491f-99fc-8831f2fc040e)
+![image](https://github.com/chase-hunter/dance/assets/122387925/f3025acb-507c-4183-bdae-00f806bb0cef)
 
-![image](https://github.com/chase-hunter/dance/assets/122387925/6eddcbcd-b806-4695-b4e6-1e565556e29c)  
+![image](https://github.com/chase-hunter/dance/assets/122387925/6cecab9f-f5e2-493e-aeff-bcc8fde24349)
 
-![image](https://github.com/chase-hunter/dance/assets/122387925/b2df23ee-f1e1-4b28-a517-0431c28e33ea)
+![image](https://github.com/chase-hunter/dance/assets/122387925/70404b07-7cfd-4267-bff4-9b693d862c38)
