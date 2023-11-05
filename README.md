@@ -1,4 +1,4 @@
-# dance
+# dance!
 a fully wireless 36 key keyboard inspired by the chocofi
 
 ## coming soon
