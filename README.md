@@ -1,5 +1,15 @@
 # dance!
-damce! is a split wireless keyboard designed from the temper and chocofi.
+damce! is a split wireless only keyboard designed from the temper and chocofi.
+## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk)
+
+## features:
+- 3x5 36- key split keyboard
+- Kailh choc spacing
+- Sweep-like column stagger (with pinky columns 2mm lower, like chocofi) with Corne-like thumb cluster
+- Reversible PCB
+- Kail choc hot-swap sockets
+- nice!nano support
+- nice!view support
 
 ## coming soon
 
