@@ -1,6 +1,8 @@
 # dance!
 dance! is a split wireless only keyboard articulated from the temper and chocofi.
 ## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk)
+![3dgifmaker74918](https://github.com/chase-hunter/dance/assets/122387925/14bad1ef-a3f3-4bca-812d-204623d29107)
+
 
 ## features:
 - 3x5 36-key split keyboard
