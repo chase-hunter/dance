@@ -16,6 +16,8 @@ dance! is a split wireless only keyboard articulated from the temper and chocofi
 >[!IMPORTANT]
 >these are prototype images!
 
+![dance with caps nano and view](https://github.com/chase-hunter/dance/assets/122387925/c2a1e53e-4f4a-437f-83be-533db70a9c7c)
+
 ![dance with caps and nano](https://github.com/chase-hunter/dance/assets/122387925/df77a366-4c82-4ea9-b444-debf32ec5039)
 
 ![image](https://github.com/chase-hunter/dance/assets/122387925/3a0d5bb9-f270-47f2-904b-b634a572ad72)
