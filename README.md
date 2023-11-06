@@ -3,11 +3,11 @@ dance! is a split wireless only keyboard articulated from the temper and chocofi
 ## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk)
 
 ## features:
-- 3x5 36- key split keyboard
-- Kailh choc spacing
-- Sweep-like column stagger (with pinky columns 2mm lower, like chocofi) with Corne-like thumb cluster
-- Reversible PCB
-- Kail choc hot-swap sockets
+- 3x5 36-key split keyboard
+- choc spacing
+- sweep column stagger (minor adjustents) + corne thumb cluster
+- reversible pcb
+- choc hot-swap
 - nice!nano support
 - nice!view support
 
