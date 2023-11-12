@@ -7,6 +7,9 @@ dance! is a split wireless only keyboard based on the [temper](https://github.co
 
 ![3dgifmaker74918](https://github.com/chase-hunter/dance/assets/122387925/14bad1ef-a3f3-4bca-812d-204623d29107)
 
+>[!NOTE]
+>dance! is in production - expect real photos soon...
+
 ## features:
 - 3x5 36-key split keyboard
 - choc spacing
