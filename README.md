@@ -5,8 +5,6 @@ dance! is a split wireless only keyboard based on the [temper](https://github.co
 ## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk) 
 ## [![raeedcho - temper](https://img.shields.io/badge/raeedcho-temper-black)](https://github.com/raeedcho/temperhttps://)
 
-![3dgifmaker74918](https://github.com/chase-hunter/dance/assets/122387925/14bad1ef-a3f3-4bca-812d-204623d29107)
-
 >[!NOTE]
 >dance! is in production - expect real photos soon...
 
