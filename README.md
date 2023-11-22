@@ -1,6 +1,6 @@
 # dance!
 
-dance! is a split wireless only keyboard based on the [temper](https://github.com/raeedcho/temper) 
+dance! is a split wireless only keyboard derived from the [temper](https://github.com/raeedcho/temper) 
 
 ## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk) 
 ## [![raeedcho - temper](https://img.shields.io/badge/raeedcho-temper-black)](https://github.com/raeedcho/temperhttps://)
